@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohithcode
-- 👀 I’m interested in Containers, GoLang, Kubernetes , Site Reliability Engineering
+- 👀 I’m interested in Containers, Pyhon, GoLang, Kubernetes , Site Reliability Engineering
 - 🌱 I’m currently learning GoLang,Observability 
 - 💞️ I’m looking to collaborate on Observability/Site Reliability Practices/DevOps Automation for Containers 
 - 📫 How to reach me ... rohith@tynybay.com / toreddygr@gmail.com 
